@@ -1,0 +1,2 @@
+﻿msgbox "Hello"
+print "Hello"
